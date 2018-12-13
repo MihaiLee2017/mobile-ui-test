@@ -80,6 +80,7 @@ export default {
 <style lang="less">
 @import '../../assets/css/base/variable.less';
 .vux-header {
+  height:44px;
   position: relative;
   display: flex;
   justify-content: center;

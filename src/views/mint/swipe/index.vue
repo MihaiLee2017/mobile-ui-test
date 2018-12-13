@@ -1,43 +1,36 @@
 <template>
-  <div>
-    <!-- <cell title="Toast" value="Toast demo" to="/vux/index" is-link></cell> -->
-    <cell v-for="(item,index) in cellList" :key="index" :title="item.title" :value="item.value" :to="item.toLink" is-link></cell>
+  <div class="swiper">
+   <div class="swiper-demo">
+      <mt-swipe :auto="4000">
+      <mt-swipe-item><div class="item">1</div></mt-swipe-item>
+      <mt-swipe-item><div class="item">2</div></mt-swipe-item>
+      <mt-swipe-item><div class="item">3</div></mt-swipe-item>
+    </mt-swipe> 
+   </div>
   </div>
 </template><script>
-import { Cell } from 'mint-ui'
+// import { Swipe, SwipeItem } from 'mint-ui'
 export default {
   data() {
     return {
-      cellList: [
-        {
-          title: 'Toast',
-          value: 'Toast Demo',
-          toLink: '/vux/toast'
-        },
-        {
-          title: 'Indicator ',
-          value: 'Indicator  Demo',
-          toLink: '/vux/indicator '
-        },
-        {
-          title: 'LoadMore ',
-          value: 'LoadMore  Demo',
-          toLink: '/vux/loadmore '
-        },
-        {
-          title: 'Swipe',
-          value: 'Swipe Demo',
-          toLink: '/vux/swipe'
-        }
-      ]
     }
   },
   components: {
-    Cell
+    // Swipe, SwipeItem
   }
 }
 </script>
-<style>
+<style lang="less">
+.swiper-demo{
+  height: 200px;
+  background-color: #ccc;
+  .item{
+    text-align: center;
+    line-height: 200px;
+    font-size: 22px;
+  }
+}
 </style>
+
 
 

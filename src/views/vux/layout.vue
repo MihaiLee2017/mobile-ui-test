@@ -2,12 +2,12 @@
   <div id="indexApp">
     <mx-header>VUX DEMO</mx-header>
     <div class="content" ref="homeScroll">
-      <transition :name="transitionName">
-        <navigation>
-          <router-view class="router-view">
-          </router-view>
-        </navigation>
-      </transition>
+      <!-- <transition :name="transitionName">
+        <navigation> -->
+      <router-view class="router-view">
+      </router-view>
+      <!-- </navigation>
+      </transition> -->
     </div>
   </div>
 </template>
@@ -18,8 +18,8 @@ import MxHeader from '../../components/mx-header'
 export default {
   data() {
     return {
-      exclude: '',
-      transitionName: 'pop-' + (this.direction === 'reverse' ? 'out' : 'in')
+      // exclude: '',
+      // transitionName: 'pop-' + (this.direction === 'reverse' ? 'out' : 'in')
     }
   },
   components: {
@@ -28,8 +28,8 @@ export default {
   mounted() {},
   computed: {
     ...mapGetters({
-      loading: 'getLoading',
-      direction: 'getDirection',
+      // loading: 'getLoading',
+      // direction: 'getDirection',
       getHomePos: 'getHomePos' //vuex中的存放的滚动条的位置
     })
   },
@@ -52,13 +52,13 @@ export default {
     ) //清除绑定的scroll事件
   },
   watch: {
-    direction(val) {
-      if (val === 'forward') {
-        this.transitionName = 'pop-in'
-      } else {
-        this.transitionName = 'pop-out'
-      }
-    }
+    // direction(val) {
+    //   if (val === 'forward') {
+    //     this.transitionName = 'pop-in'
+    //   } else {
+    //     this.transitionName = 'pop-out'
+    //   }
+    // }
   }
 }
 </script>

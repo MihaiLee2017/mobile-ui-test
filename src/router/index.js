@@ -8,11 +8,26 @@ import Router from 'vue-router'
 // 则将本次依赖的模块合并到已经存在的chunk中，最后这个chunk在webpack构建的时候会单独生成一个文件
 const indexApp = r =>
   require.ensure([], () => r(require('@/views/index.vue')), 'indexApp') // 首页
+
+
 // vux
 const VuxLayout = r =>
   require.ensure([], () => r(require('@/views/vux/layout.vue')), 'VuxLayout')
 const VuxIndex = r =>
   require.ensure([], () => r(require('@/views/vux/index')), 'VuxIndex')
+const VuxToast = r =>
+  require.ensure([], () => r(require('@/views/vux/toast')), 'VuxToast')
+const VuxIndicator = r =>
+  require.ensure(
+    [],
+    () => r(require('@/views/vux/indicator')),
+    'VuxIndicator'
+  )
+const VuxLoadMore = r =>
+  require.ensure([], () => r(require('@/views/vux/loadmore')), 'VuxLoadMore')
+const VuxSwipe = r =>
+  require.ensure([], () => r(require('@/views/vux/swipe')), 'VuxSwipe')
+
 
 // mint
 const MintLayout = r =>
@@ -51,6 +66,26 @@ export default new Router({
           path: 'index',
           component: VuxIndex,
           name: 'VuxIndex'
+        },
+        {
+          path: 'toast',
+          component: VuxToast,
+          name: 'VuxToast'
+        },
+        {
+          path: 'indicator',
+          component: VuxIndicator,
+          name: 'VuxIndicator'
+        },
+        {
+          path: 'loadmore',
+          component: VuxLoadMore,
+          name: 'VuxLoadMore'
+        },
+        {
+          path: 'swipe',
+          component: VuxSwipe,
+          name: 'VuxSwipe'
         }
       ]
     },
