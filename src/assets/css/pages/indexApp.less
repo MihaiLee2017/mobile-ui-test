@@ -1,0 +1,47 @@
+#indexApp {
+  @border-color: #ddd;
+  .main {
+    position: absolute;
+    width: 100%;
+    top: 129px;
+    height: ~'calc(100% - 184px)';
+
+    ._v-container {
+      overflow-y: auto;
+    }
+    ul {
+      li {
+        display: inline-block;
+        width: 25%;
+        box-sizing: border-box;
+        height: 76px;
+        line-height: 76px;
+        border-bottom: 1px solid @border-color;
+        border-right: 1px solid @border-color;
+        float: left;
+        &:nth-child(4n) {
+          border-right: 0;
+        }
+        .app-icon {
+          content: "";
+          height: 45px;
+          line-height: 45px;
+          img {
+            width: 40%;
+            max-width: 40px;
+            margin-top: 10px;
+          }
+        }
+        .app-name {
+          height: 25px;
+          line-height: 25px;
+          font-size: 13px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          padding: 0 2px;
+        }
+      }
+    }
+  }
+}

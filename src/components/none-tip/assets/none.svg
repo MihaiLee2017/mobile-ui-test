@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="146px" viewBox="0 0 116 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>无内容@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="12" y="9" width="76" height="93" rx="5"></rect>
+    </defs>
+    <g id="薪酬相关" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-13-02短期激励方案申请" transform="translate(-133.000000, -164.000000)">
+            <g id="暂无" transform="translate(65.000000, 164.000000)">
+                <g id="无内容" transform="translate(69.000000, 1.000000)">
+                    <g id="Group-4" stroke="#B9B9B9">
+                        <path d="M76.6644829,11.3361175 C37.2500271,-3.27859998 13.225754,-3.27859998 4.59166348,11.3361175 C-8.35947228,33.2581937 5.59956366,73.0655219 52.6782563,55.6595037 C99.7569489,38.2534855 111.886017,58.6814435 105.780159,68.6027197 C99.6743004,78.5239959 76.1641885,78.8566803 55.8476711,73.257526 C35.5311537,67.6583716 20.7710101,76.3782865 15.4605124,95.1842803 C10.1500147,113.990274 32.8686073,135.416136 64.1622825,142" id="Path-3" stroke-dasharray="2,2"></path>
+                        <circle id="Oval-3" cx="79" cy="12.3750794" r="3"></circle>
+                        <circle id="Oval-3-Copy" cx="66" cy="142.375079" r="2"></circle>
+                    </g>
+                    <g id="Group-3" transform="translate(2.000000, 22.000000)">
+                        <path d="M87.916238,13.083762 C90.2400804,13.5141255 92,15.5515371 92,18 L92,101 C92,103.761424 89.7614237,106 87,106 L21,106 C18.5515371,106 16.5141255,104.24008 16.083762,101.916238 C16.3807939,101.971247 16.6870391,102 17,102 L83,102 C85.7614237,102 88,99.7614237 88,97 L88,14 C88,13.6870391 87.9712468,13.3807939 87.916238,13.083762 Z" id="Combined-Shape" fill="#E1E1E1"></path>
+                        <g id="Rectangle-3">
+                            <use fill="#F4F4F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#B9B9B9" stroke-width="1" x="12.5" y="9.5" width="75" height="92" rx="5"></rect>
+                        </g>
+                        <path d="M41,5.00005015 L46,5.00005015 C46,1.67730704 47.3333333,0.0106403701 50,5.01500817e-05 C52.6666667,-0.0105400699 54,1.6561266 54,5.00005015 L59,5.00005015 L59,5.00005015 C61.209139,5.00005015 63,6.79091115 63,9.00005015 L63,9.00005015 L63,9.00005015 C63,11.2091891 61.209139,13.0000502 59,13.0000502 L41,13.0000502 L41,13.0000502 C38.790861,13.0000502 37,11.2091891 37,9.00005015 L37,9.00005015 L37,9.00005015 C37,6.79091115 38.790861,5.00005015 41,5.00005015 Z" id="Combined-Shape" stroke="#B9B9B9" fill="#D8D8D8"></path>
+                        <g id="Group-2" transform="translate(31.000000, 44.000000)">
+                            <circle id="Oval" fill="#B9B9B9" cx="3" cy="3" r="3"></circle>
+                            <circle id="Oval-Copy" fill="#B9B9B9" cx="35" cy="3" r="3"></circle>
+                            <path d="M31,23 C27.5702381,16.6488916 23.4685658,15 19,15 C14.5314342,15 9.65225566,16.5920676 7,23" id="Oval-2" stroke="#B9B9B9"></path>
+                        </g>
+                        <rect id="Rectangle-5" stroke="#B9B9B9" fill="#D8D8D8" transform="translate(106.123724, 42.123724) rotate(-345.000000) translate(-106.123724, -42.123724) " x="101.123724" y="37.1237244" width="10" height="10"></rect>
+                        <rect id="Rectangle-5-Copy" stroke="#B9B9B9" fill="#F4F4F4" transform="translate(10.779977, 32.270141) rotate(-15.000000) translate(-10.779977, -32.270141) " x="2.779977" y="24.2701407" width="16" height="16"></rect>
+                        <polyline id="Path-4" stroke="#B9B9B9" points="6 33.4534067 10.3891923 35.6856777 14.6197832 26.8288392"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

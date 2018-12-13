@@ -1,0 +1,213 @@
+[
+  {
+    "text": "新闻公告",
+    "value": "14b1048aa8b8261d64f9e4e4af28f2fd",
+    "autoFetch": true,
+    "children": [
+      {
+        "text": "公司新闻",
+        "value": "14b1038687fb93646aa671249ca9d316",
+        "autoFetch": true,
+        "children": [
+          {
+            "text": "集团总部",
+            "value": "14ac2eb4785e66a6f716eca48c898a3b",
+            "autoFetch": true,
+            "children": []
+          },
+          {
+            "text": "控股单位",
+            "value": "14b0f6a1be42f4ab22ee84546958344a",
+            "autoFetch": true,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "公司公告",
+        "value": "14b10401c006d7f1c7b32994bf6bcf70",
+        "autoFetch": true,
+        "children": [
+          {
+            "text": "集团总部",
+            "value": "14b1040dae84f2c1e5f830d458caefe4",
+            "autoFetch": true,
+            "children": []
+          },
+          {
+            "text": "控股单位",
+            "value": "14b1041e8d76fd44b1fb95a4840aaa43",
+            "autoFetch": true,
+            "children": []
+          },
+          {
+            "text": "匿名公告",
+            "value": "14bece70009e4a0789b6ca14a2a81572",
+            "autoFetch": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "外部新闻",
+    "value": "14ac2e8abb0dc7785adec724752a1ced",
+    "autoFetch": true,
+    "children": [
+      {
+        "text": "宏观",
+        "value": "14af09677ae21a669726d594d96ae3a4",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "制造",
+        "value": "14af096c73badbe5ec9457b4869a10d9",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "母婴",
+        "value": "14af0975469ee12e9c9e07447099d695",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "金融",
+        "value": "14af0977b0a57eee2ef052c4a17bc30b",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "文化",
+        "value": "14af097c12bf58fadee7ce74dd5822d5",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "慈善",
+        "value": "14af097f8d00999f6550612439cb4303",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "产研",
+        "value": "14b2e6912ea79e91ef6f0904120b24f7",
+        "autoFetch": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "常用软件",
+    "value": "14ac375807b44256487e39841228bdbc",
+    "autoFetch": true,
+    "children": []
+  },
+  {
+    "text": "股价期货",
+    "value": "14ac86083b11d5ce56465e84e6cafbb2",
+    "autoFetch": true,
+    "children": []
+  },
+  {
+    "text": "优惠信息",
+    "value": "14ac8a245c3c2f5ccb52c97403bab5d4",
+    "autoFetch": true,
+    "children": []
+  },
+  {
+    "text": "最新招聘",
+    "value": "14aecb00589ae308d67b7964c68bd481",
+    "autoFetch": true,
+    "children": [
+      {
+        "text": "集团",
+        "value": "14af08f40b418113b9f321d45cd8aa7a",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "制造",
+        "value": "14aecb068afa50e7a8ecde749c9bc591",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "母婴",
+        "value": "14aecb0beb980c0c8e5aa4e4c8eb133e",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "金融",
+        "value": "14aecb0f85445e1b9266108408995997",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "文化",
+        "value": "14aecb11dbb8e8402e3855e43e994044",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "慈善",
+        "value": "14aecb149417bf3320eef754edb8344b",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "和园",
+        "value": "14af1875a861c7b7a9f95514e3fa76c5",
+        "autoFetch": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "知识共享",
+    "value": "14aecbd5e437aa41aa1ecb84574ad73c",
+    "autoFetch": true,
+    "children": [
+      {
+        "text": "百科",
+        "value": "14aecbe58a15e2c45defbdd41c1b0c62",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "职场",
+        "value": "14aecbe9f57d303e9070b7f4d8eacfb6",
+        "autoFetch": true,
+        "children": []
+      },
+      {
+        "text": "读图",
+        "value": "14aed3bfad12f7ae90952b54314887a6",
+        "autoFetch": true,
+        "children": [
+          {
+            "text": "1",
+            "value": "14c5540f8087cf5815ba21448f29da09",
+            "autoFetch": true,
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "办公",
+        "value": "14aed3c2dc8108cd8b0a7ea465a8a9c9",
+        "autoFetch": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "测试类别",
+    "value": "154514996c436334147b63c440a9ca7d",
+    "autoFetch": true,
+    "children": []
+  }
+]

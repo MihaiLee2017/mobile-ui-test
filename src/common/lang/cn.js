@@ -1,0 +1,23 @@
+export const lan = {
+  language: '中文',
+  hello: '你好,世界！',
+  title: '首页',
+  // components
+  back_text: '返回',
+  save: '保存',
+  cancel: '取消',
+  noneTip: '暂无数据',
+  pullDown: '下拉刷新',
+  loading: '加载中',
+  pullUp: '上拉加载更多',
+  Release: '释放更新',
+  searchPlaceholder: '搜索',
+  orgTitle: '组织架构',
+  searchNoData: '查询暂无数据',
+  finish: '完成',
+  photo: '拍照',
+  album: '从相册选择',
+  detail: '详情',
+  comfirm: '确定',
+  selectTip: '请选择一项!',
+}

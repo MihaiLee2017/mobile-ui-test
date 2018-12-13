@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="95"></rect>
+        <rect id="path-2" x="0" y="0" width="65" height="65"></rect>
+    </defs>
+    <g id="薪酬相关" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-15-01政策调薪申请" transform="translate(-15.000000, -595.000000)">
+            <g id="5" transform="translate(0.000000, 530.000000)">
+                <g id="文本" transform="translate(0.000000, 50.000000)">
+                    <g id="Rectangle-35">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#CBCFD6" stroke-width="0.3" x="-0.15" y="-0.15" width="375.3" height="95.3"></rect>
+                    </g>
+                    <g id="add" transform="translate(15.000000, 15.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#CBCFD6" stroke-width="0.3" x="0.15" y="0.15" width="64.7" height="64.7"></rect>
+                        </g>
+                        <rect id="Rectangle-3" fill="#CBCFD6" mask="url(#mask-3)" x="12" y="32" width="41" height="1"></rect>
+                        <rect id="Rectangle-3" fill="#CBCFD6" mask="url(#mask-3)" transform="translate(32.500000, 32.500000) rotate(90.000000) translate(-32.500000, -32.500000) " x="12" y="32" width="41" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
